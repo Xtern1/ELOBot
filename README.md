@@ -1,2 +1,2 @@
-# ELOBot
-Open source ELO bot.
+### ELO Bot
+# Created by xternl
