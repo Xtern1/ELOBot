@@ -6,6 +6,4 @@ I was created to record stats and update ranks.
 
 
 **Updates:**
-|--|
-|nothing|
-|--|
+***11/12/18*** - Created the current repository.
